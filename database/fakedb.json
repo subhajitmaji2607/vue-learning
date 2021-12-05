@@ -2,18 +2,39 @@
   "users": [
     {
       "name": "subhajit",
-      "email": "subhajit2000@gmail.com",
+      "email": "subhajitmaji2000@gmail.com",
+      "password": "123",
       "id": 1
-    },
-    {
-      "name": "aniket",
-      "email": "aniket@2001",
-      "id": 2
     },
     {
       "name": "soumyadeep",
       "email": "soumyadeep@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "aniket",
+      "email": "aniket@gmail.com",
+      "password": "123",
       "id": 3
+    },
+    {
+      "name": "rohit",
+      "email": "rohit@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "a",
+      "email": "a",
+      "password": "1",
+      "id": 5
+    },
+    {
+      "name": "swapnendu",
+      "email": "swapnendu@gmail.com",
+      "password": "123",
+      "id": 6
     }
   ]
 }
