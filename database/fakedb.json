@@ -2,39 +2,16 @@
   "users": [
     {
       "name": "subhajit",
-      "email": "subhajitmaji2000@gmail.com",
+      "email": "subhajit@2000",
       "password": "123",
       "id": 1
-    },
+    }
+  ],
+  "retaurdant": [
     {
-      "name": "soumyadeep",
-      "email": "soumyadeep@gmail.com",
-      "password": "123",
-      "id": 2
-    },
-    {
-      "name": "aniket",
-      "email": "aniket@gmail.com",
-      "password": "123",
-      "id": 3
-    },
-    {
-      "name": "rohit",
-      "email": "rohit@gmail.com",
-      "password": "123",
-      "id": 4
-    },
-    {
-      "name": "a",
-      "email": "a",
-      "password": "1",
-      "id": 5
-    },
-    {
-      "name": "swapnendu",
-      "email": "swapnendu@gmail.com",
-      "password": "123",
-      "id": 6
+      "name": "babar hotel",
+      "contract": "999",
+      "id": 1
     }
   ]
 }
