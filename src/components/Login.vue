@@ -37,6 +37,7 @@ export default {
             this.password = ''
             if(userLoginSuccessfully.status === 200 && userLoginSuccessfully.data[0]){
                 localStorage.setItem('userLogin', true)
+                localStorage.setItem('userInfo', JSON.stringify(userLoginSuccessfully.data[0]))
                 this.$router.push({name:'Home'})
             }else alert('Wrong user name or password')
         }
